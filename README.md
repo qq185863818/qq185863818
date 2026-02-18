@@ -1,21 +1,9 @@
 ## ☕ Connect with me
 
-<p align="left">
+[![Email](https://img.shields.io/badge/email-6886600@gmail.com-red?style=flat&logo=gmail)](mailto:6886600@gmail.com)
 
-<a href="mailto:6886600@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="32"/>
-</a>
+[![Discord](https://img.shields.io/badge/Discord-JSMeowShield-5865F2?style=flat&logo=discord)](https://discord.com/users/1473531289960321034)
 
-<a href="https://discord.gg/nuVByr4v">
-<img src="https://img.icons8.com/color/48/discord.png" width="32"/>
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-@JSMeowShield-26A5E4?style=flat&logo=telegram)](https://t.me/JSMeowShield)
 
-<a href="https://t.me/JSMeowShield">
-<img src="https://img.icons8.com/color/48/telegram-app.png" width="32"/>
-</a>
-
-<a href="https://github.com/qq185863818">
-<img src="https://img.icons8.com/material-rounded/48/github.png" width="32"/>
-</a>
-
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-qq185863818-black?style=flat&logo=github)](https://github.com/qq185863818)
